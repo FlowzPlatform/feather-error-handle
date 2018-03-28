@@ -1,0 +1,19 @@
+{
+  "name": "error-handler-flowz",
+  "version": "1.0.1",
+  "description": "Flowz Error Handler Can Be Use To Handle All Internal Server Error For Back-end.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Flowz",
+    "errorhandler",
+    "featherserror"
+  ],
+  "author": "Sanjaysinh Zala <sanjaysinhz@officebrain.com>",
+  "license": "ISC",
+  "dependencies": {
+    "feathers-errors": "^2.9.2"
+  }
+}
