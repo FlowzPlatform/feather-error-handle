@@ -1,6 +1,6 @@
 {
   "name": "flowz-error-handler",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Flowz Error Handler Can Be Use To Handle All Internal Server Error For Back-end.",
   "main": "index.js",
   "scripts": {
